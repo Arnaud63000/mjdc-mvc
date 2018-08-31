@@ -1,1 +1,1 @@
-# Mini_jeu_de_combatXSQqq²²²²dsq
+# Mini_jeu_de_combat en MVC
